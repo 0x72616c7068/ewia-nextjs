@@ -41,7 +41,7 @@ export default function Splash() {
         <div className="container pt-24 md:pt-12 px-6 mx-auto flex flex-wrap flex-col md:flex-row items-center">
           <div className="flex flex-col w-full xl:w-2/5 justify-center lg:items-start overflow-y-hidden">
             <h1 className="my-4 text-xl md:text-7xl text-indigo-800 font-bold leading-tight text-center md:text-left slide-in-bottom-h1">
-              Main Hero message to sell your app
+              ewiaCoin Presale
             </h1>
             <p className="leading-normal text-base md:text-2xl mb-8 text-center md:text-left slide-in-bottom-subtitle">
               Sub-hero message, not too long and not too short. Make it just
